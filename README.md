@@ -177,16 +177,16 @@ following methods:
 
 However, in that file, they are called `mysteryA-F`, and they are in a
 different order, and we don't provide the source of that file. You have two
-tasks: determining a big-Θ bound for each method labeled 1-6 analyzing
+tasks: determining a big-O bound for each method labeled 1-6 analyzing
 the source above, and determining which mystery method A-F corresponds to the
 implementations above by measuring against provided (but hidden)
 implementation.
 
 ### Identifying Bounds from Code
 
-Determine a big-Θ bound for each function, and justify it with a few
-sentences. Give only the most relevant term, so use, for example _Θ(n)_, not
-_Θ(4n + 2)_. You will be submitting this via Gradescope. It can be found in the *Programming Assignment 4 - questions* assignment (this is also part of question 3). Make sure to following the formatting instuctions!
+Determine a big-O bound for each function, and justify it with a few
+sentences. Give only the most relevant term, so use, for example _O(n)_, not
+_O(4n + 2)_. You will be submitting this via Gradescope. It can be found in the *Programming Assignment 4 - questions* assignment (this is also part of question 3). Make sure to following the formatting instuctions!
 
 # Part 2: Measuring Implementations
 
